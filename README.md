@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Howarf&layout=compact&langs_count=4&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=Howarf&layout=compact&langs_count=4&theme=vue)
 <!--
 **Howarf/Howarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
