@@ -2,10 +2,19 @@
 JavaScritp와 React를 중심으로 사용성을 중심으로 웹 서비스를 개발하고 있으며
 새로운 기술을 배우거나 더 좋은 사용성을 위해 노력해나가는 중입니다.
 
-<a href="https://howarf-portfolio.vercel.app/" target="_blank">
-  <img src="./portfolio_icon.png" width="128px" heigt="128px" alt="포트폴리오 사이트" />
-</a>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Howarf&layout=compact&langs_count=4&theme=react)](https://github-stats-extended.vercel.app/api/top-langs?username=Howarf&layout=compact&langs_count=4&theme=react)
+<p>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Howarf&layout=compact&langs_count=4&theme=react">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=Howarf&layout=compact&langs_count=4&theme=react"
+      alt="GitHub Stats"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://howarf-portfolio.vercel.app/" target="_blank">
+    <img src="./portfolio_icon.png" width="128" height="128" alt="포트폴리오 사이트" />
+  </a>
+</p>
+
 ## Tech Stack
 ### Frameworks & Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
